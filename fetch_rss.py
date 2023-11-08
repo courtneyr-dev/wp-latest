@@ -26,7 +26,7 @@ rss_feeds = {
     "Openverse": "https://make.wordpress.org/openverse/feed",
     "Performance": "https://make.wordpress.org/performance/feed",
     "Photos": "https://make.wordpress.org/photos/feed/",
-    "Polyglots": "https://make.wordpress.org/polyglots/feed",
+    "Polyglots": "https://make.wordpress.org/polyglots/feed?tags=-editor-requests,-request,-clpte,-locale-requests",
     "Plugins": "https://make.wordpress.org/plugins/feed",
     "Project": "https://make.wordpress.org/project/feed",
     "Security": "https://make.wordpress.org/security/feed",
