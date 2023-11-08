@@ -29,6 +29,11 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git add ARTICLES.md
-          git commit -m "Updated articles list" -a || echo "No changes to commit"
-          git push
+          git pull --rebase # To ensure we are not behind the remote
+          if [ -s ARTICLES.md ]; then
+            git add ARTICLES.md
+            git commit -m "Updated ARTICLES.md with new entries"
+            git push
+          else
+            echo "No changes to ARTICLES.md"
+          fi
