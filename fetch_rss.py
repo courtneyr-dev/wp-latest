@@ -71,6 +71,11 @@ def fetch_feed_articles(feed_url):
 def is_article_already_added(article_title, file_content):
     return article_title in file_content
 
+
+# Check if ARTICLES.md exists, if not, create it
+if not os.path.exists('ARTICLES.md'):
+    with open('ARTICLES.md', 'w'): pass
+
 # Read the existing content of ARTICLES.md to avoid duplicating entries
 existing_content = ""
 if os.path.isfile('ARTICLES.md'):
