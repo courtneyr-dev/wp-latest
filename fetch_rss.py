@@ -55,7 +55,7 @@ rss_feeds = {
 }
 
 # Get date 7 days ago
-date_limit = datetime.now() - timedelta(days=7)
+date_limit = datetime.now() - timedelta(days=14)
 
 # Function to fetch articles from the feed
 def fetch_feed_articles(feed_url):
