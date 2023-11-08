@@ -4,8 +4,32 @@ import os
 
 # List of RSS feeds
 rss_feeds = {
-    "WordPress News": "http://wordpress.org/news/rss",
-    # Add more RSS feeds here
+    "WordPress News": "http://wordpress.org/news/feed",
+    "Accessibility": "https://make.wordpress.org/accessibility/feed",
+    "CLI": "https://make.wordpress.org/cli/feed",
+    "Community": "https://make.wordpress.org/community/feed",
+    "Core": "https://make.wordpress.org/core/feed",
+    "Core Dev Blog": "https://developer.wordpress.org/news/feed",
+    "Design": "https://make.wordpress.org/design/feed",
+    "Docs": "https://make.wordpress.org/docs/feed",
+    "User Support Articles": "https://wordpress.org/support/articles/feed",
+    "Developer Support Articles": "https://developer.wordpress.org/feed/?post_type%5B0%5D=wporg_explanations&amp;post_type%5B1%5D=apis-handbook&amp;post_type%5B2%5D=plugin-handbook&amp;post_type%5B3%5D=theme-handbook&amp;post_type%5B4%5D=blocks-handbook&amp;post_type%5B5%5D=wpcs-handbook&amp;post_type%5B6%5D=rest-api-handbook&amp;post_type%5B7%5D=wp-parser-function&amp;post_type%5B8%5D=wp-parser-class&amp;post_type%5B9%5D=wp-parser-hook&amp;post_type%5B10%5D=wp-parser-method&amp;post_type%5B11%5D=command",
+    "Five for the Future": "https://openrss.org/github.com/wordpress/five-for-the-future/issues",
+    "Hosting: "https://make.wordpress.org/hosting/feed",
+    "Jobs": "https://jobs.wordpress.net/feed",
+    "Marketing": "https://make.wordpress.org/marketing/feed",
+    "Meta": "https://make.wordpress.org/meta/feed",
+    "Playgrounds": "https://openrss.org/github.com/WordPress/wordpress-playground/issues",
+    "Showcase": "https://openrss.org/github.com/WordPress/wporg-showcase-2022/issues",
+    "WP org theme": "https://openrss.org/github.com/WordPress/wporg-main-2022/issues",
+    "Mobile": "https://make.wordpress.org/mobile/feed",
+    "Openverse": "https://make.wordpress.org/openverse/feed",
+    "Performance": "https://make.wordpress.org/performance/feed",
+    "Photos": "https://make.wordpress.org/photos/feed/",
+    "Polyglots": "https://make.wordpress.org/polyglots/feed",
+    "Plugins": "https://make.wordpress.org/plugins/feed",
+    "Project": "https://make.wordpress.org/project/feed",
+    "Security": "https://make.wordpress.org/security/feed"
 }
 
 # Get date 7 days ago
