@@ -29,5 +29,13 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git pull --rebase # To ensure we are not behind the remote
-          git diff --quiet || (git add ARTICLES.md && git commit -m "Updated ARTICLES.md with new entries" && git push)
+          git pull --rebase || echo "Failed to rebase" && exit 1
+          git status
+          git diff --quiet || echo "Changes detected"
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
+            git add ARTICLES.md
+            git commit -m "Updated ARTICLES.md with new entries"
+            git push || echo "Failed to push changes" && exit 1
+
