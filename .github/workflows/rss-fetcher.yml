@@ -25,15 +25,9 @@ jobs:
       - name: Fetch RSS Articles
         run: python fetch_rss.py
       
-- name: Commit and push if there are changes
-  run: |
-    git config --global user.email "action@github.com"
-    git config --global user.name "GitHub Action"
-    git pull --rebase # To ensure we are not behind the remote
-    if git status | grep -q 'ARTICLES.md'; then
-      git add ARTICLES.md
-      git commit -m "Updated ARTICLES.md with new entries"
-      git push
-    else
-      echo "No changes to ARTICLES.md"
-    fi
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git pull --rebase # To ensure we are not behind the remote
+          git diff --quiet || (git add ARTICLES.md && git commit -m "Updated ARTICLES.md with new entries" && git push)
