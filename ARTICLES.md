@@ -124,3 +124,37 @@
 - [Documentation Team Update – November 6, 2023](https://make.wordpress.org/updates/2023/11/06/documentation-team-update-november-6-2023/)
 - [Test Team Update: 6 November 2023](https://make.wordpress.org/updates/2023/11/06/test-team-update-6-november-2023/)
 - [Mobile Team Update – November 3rd](https://make.wordpress.org/updates/2023/11/03/mobile-team-update-november-3rd-2/)
+## WordPress News
+- [WordPress 6.4.1 Maintenance Release](https://wordpress.org/news/2023/11/wordpress-6-4-1-maintenance-release/)
+## Accessibility
+## Community
+## Core
+- [WordPress 6.4.1 RC1 is now available](https://make.wordpress.org/core/2023/11/08/wordpress-6-4-1-rc1-is-now-available/)
+- [Merging Performant Translations into Core](https://make.wordpress.org/core/2023/11/08/merging-performant-translations-into-core/)
+- [Dev Chat agenda, November 8, 2023](https://make.wordpress.org/core/2023/11/08/dev-chat-agenda-november-8-2023/)
+## Core Dev Blog
+- [What’s new for developers? (November 2023)](https://developer.wordpress.org/news/2023/11/whats-new-for-developers-november-2023/)
+## Design
+## Docs
+## Hosting
+## Jobs
+- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-2/)
+- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-11/)
+- [Web Developer](https://jobs.wordpress.net/job/web-developer-206/)
+## Openverse
+## Polyglots
+## Sustainability
+- [Sustainability Chat Summary, November 10, 2023](https://make.wordpress.org/sustainability/2023/11/10/sustainability-chat-summary-november-10-2023/)
+## Test
+## Training
+## LearnWP Tutorials
+## LearnWP Online Workshops
+- [WordPress 6.4 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-4-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
+## WPTV
+- [Crea tu primer bloque de Gutenberg desde cero](https://wordpress.tv/2023/11/09/crea-tu-primer-bloque-de-gutenberg-desde-cero/)
+- [De la idea al lanzamiento: Configurar páginas de landing, thank you y registro efectivas en WordPress](https://wordpress.tv/2023/11/09/de-la-idea-al-lanzamiento-como-configurar-paginas-de-landing-thank-you-y-registro-efectivas-en-wor/)
+- [Automatizar procesos de diseño con WordPress / WooCommerce](https://wordpress.tv/2023/11/09/automatizar-procesos-de-diseno-con-wordpress-woocommerce/)
+- [Configuración avanzada del plugin de facturación «PDF Invoices & Packing Slips for WooCommerce»](https://wordpress.tv/2023/11/09/configuracion-avanzada-del-plugin-de-facturacion-pdf-invoices-packing-slips-for-woocommerce/)
+- [¿Creamos una academia online en directo?](https://wordpress.tv/2023/11/09/creamos-una-academia-online-en-directo/)
+- [Herramientas de desarrollo del navegador: un viaje al interior de tu web](https://wordpress.tv/2023/11/09/herramientas-de-desarrollo-del-navegador-un-viaje-al-interior-de-tu-web/)
+## Updates
