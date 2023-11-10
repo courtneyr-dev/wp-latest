@@ -158,3 +158,24 @@
 - [¿Creamos una academia online en directo?](https://wordpress.tv/2023/11/09/creamos-una-academia-online-en-directo/)
 - [Herramientas de desarrollo del navegador: un viaje al interior de tu web](https://wordpress.tv/2023/11/09/herramientas-de-desarrollo-del-navegador-un-viaje-al-interior-de-tu-web/)
 ## Updates
+## WordPress News
+## Community
+## Core
+- [What’s new in Gutenberg 17.0? (9 November)](https://make.wordpress.org/core/2023/11/10/whats-new-in-gutenberg-17-0-9-november/)
+- [WordPress 6.4.1 Rapid Maintenance Release: Technical Details and Timeline](https://make.wordpress.org/core/2023/11/10/wordpress-6-4-1-rapid-maintenance-release-technical-details-and-timeline/)
+## Core Dev Blog
+## Design
+## Docs
+## Hosting
+## Jobs
+## Openverse
+- [Openverse maintainers welcome Kenneth Ng as a new committer](https://make.wordpress.org/openverse/2023/11/10/openverse-maintainers-welcome-kenneth-ng-as-a-new-committer/)
+## Polyglots
+## Sustainability
+## Test
+## Training
+## LearnWP Tutorials
+## LearnWP Online Workshops
+- [New WordPress Developer APIs: The HTML API](https://learn.wordpress.org/?meeting=new-wordpress-developer-apis-the-html-api)
+## WPTV
+## Updates
