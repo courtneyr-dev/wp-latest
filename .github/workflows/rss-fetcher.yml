@@ -1,3 +1,8 @@
+name: RSS Article Fetcher
+
+on:
+  workflow_dispatch:
+
 jobs:
   fetch-rss:
     runs-on: ubuntu-latest
